@@ -10,3 +10,24 @@ style
 className
 value
 onChange
+
+## 使用实例
+```javascript
+import React, { useState } from 'react';
+import DayNightSwitch from 'day-night-switch';
+
+const myComponent = () => {
+  const [light, setLight] = useState(true);
+
+  return (
+    <DayNightSwitch
+      value={light}
+      onChange={setLight}
+      style={{
+        transform: 'scale(0.33)'
+      }}
+      className="theme-switch"
+    />
+  )
+}
+```
