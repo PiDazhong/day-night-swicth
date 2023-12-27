@@ -1,6 +1,6 @@
 {
   "name": "day-night-switch",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "一个白天夜晚样式切换的组件，基于react封装。源码：https://github.com/Xiumuzaidiao/Day-night-toggle-button",
   "main": "dist/index.js",
   "scripts": {

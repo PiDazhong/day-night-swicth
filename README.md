@@ -2,6 +2,10 @@
 一个白天夜晚样式切换的组件，基于react封装。
 源码：https://github.com/Xiumuzaidiao/Day-night-toggle-button
 
+## demo
+![select day](https://www.quantanalysis.cn/icons/day.png)
+![select day](https://www.quantanalysis.cn/icons/night.png)
+
 ## 关于
 组件源码：https://github.com/PiDazhong/day-night-swicth
 
